@@ -1,5 +1,5 @@
 ## About me
-I either draw or Develop
+I either Draw, Play Games or Develop
 
 ## Frontend Technologies Used
 
