@@ -1,7 +1,7 @@
 ## About me
 I either Draw, Play Games or Develop
 
-## Frontend Technologies Used
+## Frontend
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
@@ -10,7 +10,7 @@ I either Draw, Play Games or Develop
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/>
 </p>
 
-## Backend Technologies Used
+## Backend
 
 <p align = "left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
