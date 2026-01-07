@@ -1,7 +1,5 @@
 ## About me
-sometimes I draw,
-sometimes I develop Web Projects,
-sometimes I like to develop hand-drawn looking websites
+I either draw or Develop
 
 ## Frontend Technologies Used
 
