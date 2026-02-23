@@ -1,5 +1,5 @@
 ## About me
-I either Draw, Play Games or Develop
+
 
 ## Frontend
 
