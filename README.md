@@ -22,5 +22,4 @@ none
 <p align = "left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/laragon.svg" alt="Laragon" width="50" height="50"/>
-  and Github <sup><em>(idk man, can't find a good Github icon)</em></sup>.
 </p>
