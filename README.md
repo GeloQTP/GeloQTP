@@ -1,5 +1,5 @@
 ## About me
-none
+i draw, i dev, i play
 
 ## Frontend
 
